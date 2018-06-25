@@ -1,2 +1,6 @@
 ﻿*$third-party,script,domain=m.11bz.la|m.73wx.com
 *$xmlhttprequest,domain=m.11bz.la|m.73wx.com
+mohe.gsdsds.com
+mohe.btfgrffss.com
+yimeikee.com
+j.chuanxianwanguan.com
